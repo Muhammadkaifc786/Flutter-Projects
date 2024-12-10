@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711689537070",
+    "project_id": "chaapptut",
+    "storage_bucket": "chaapptut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711689537070:android:6d1ead851e0deab6c181bf",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Qmln_hxzW4TojPTaZ0ZuVcnW6jIBBCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
